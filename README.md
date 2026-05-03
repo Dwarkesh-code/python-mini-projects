@@ -8,10 +8,10 @@ run these command in your terminal
 
 **My Projects**
 1. Auto Chart
-   - Description : Auto Chart takes a CSV file as input, asks you to select coloumns for X and Y axis, lets you choose a chart type, and optionally saves the chart to a file.
+   - Description : Auto Chart takes a CSV file as input, asks you to select columns for X and Y axis, lets you choose a chart type, and optionally saves the chart to a file.
    - Features :
      * Takes Csv as input
-     * Ask Coloumns name for X and Y axis
+     * Ask Columns name for X and Y axis
      * Ask to Choose a chart type
      * Ask Optionally saves the chart to a file
     - How to Run : python3 auto_chart.py
